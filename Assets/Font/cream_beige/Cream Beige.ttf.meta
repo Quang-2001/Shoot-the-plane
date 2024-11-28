@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 62498df299283f64d8f8568123ab3ddf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cream Beige
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1236e8765ebe99f48be0a59b515b581b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
